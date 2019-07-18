@@ -1,6 +1,6 @@
 #pragma once
-#ifndef _ENTITY_player_
-#define _ENTITY_player_
+#ifndef _ENTITY_PLAYER_
+#define _ENTITY_PLAYER_
 
 #include "entity_item.hpp"
 
